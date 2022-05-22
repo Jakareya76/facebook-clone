@@ -1,6 +1,6 @@
 import { Box } from '@mui/system';
 import Post from './Post';
-import postData from './postData';
+import postData from '../data/postData';
 
 const Feed = () => {
   return (
